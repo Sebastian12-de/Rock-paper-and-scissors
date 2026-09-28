@@ -1,0 +1,14 @@
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.AssemblyInfoInputs.cache
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.AssemblyInfo.cs
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.csproj.CoreCompileInputs.cache
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\bin\Debug\net10.0\Rock, paper and scissors.exe
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\bin\Debug\net10.0\Rock, paper and scissors.deps.json
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\bin\Debug\net10.0\Rock, paper and scissors.runtimeconfig.json
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\bin\Debug\net10.0\Rock, paper and scissors.dll
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\bin\Debug\net10.0\Rock, paper and scissors.pdb
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.dll
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\refint\Rock, paper and scissors.dll
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.pdb
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\Rock, paper and scissors.genruntimeconfig.cache
+C:\Users\Aelita\Documents\Rock, paper and scissors\Rock, paper and scissors\obj\Debug\net10.0\ref\Rock, paper and scissors.dll
